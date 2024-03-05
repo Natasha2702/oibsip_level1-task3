@@ -1,0 +1,8 @@
+h1{margin: 1px;}
+
+.container{text-align: center;
+max-width: fit-content;
+margin: 0 auto;
+padding: 10px;
+border-radius: 8px ;
+border: 2px solid black;}
